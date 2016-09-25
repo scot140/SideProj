@@ -1,2 +1,3 @@
 Big Big booty she got a big booty
-all these hoes on my dick
+All these hoes on my dick
+That ass of yours look deflated
