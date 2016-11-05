@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 0c394748395da984793fb32eeebf9bb2
+timeCreated: 1475601586
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beserker_Idle_0
+    21300002: Beserker_Idle_1
+    21300004: Beserker_Idle_2
+    21300006: Beserker_Idle_3
+    21300008: Beserker_Idle_4
+    21300010: Beserker_Idle_5
+    21300012: Beserker_Idle_6
+    21300014: Beserker_Idle_7
+    21300016: Beserker_Idle_8
+    21300018: Beserker_Idle_9
+    21300020: Beserker_Idle_10
+    21300022: Beserker_Idle_11
+    21300024: Beserker_Idle_12
+    21300026: Beserker_Idle_13
+    21300028: Beserker_Idle_14
+    21300030: Beserker_Idle_15
+    21300032: Beserker_Idle_16
+    21300034: Beserker_Idle_17
+    21300036: Beserker_Idle_18
+    21300038: Beserker_Idle_19
+    21300040: Beserker_Idle_20
+    21300042: Beserker_Idle_21
+    21300044: Beserker_Idle_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beserker_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 43
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Beserker_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 43
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
