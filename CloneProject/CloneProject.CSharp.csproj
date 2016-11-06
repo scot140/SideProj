@@ -69,7 +69,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ThisIsSomeFuckingBullshitScript.cs" />
+    <Compile Include="Assets\Resources\Library\Databases\Scripts\BaseDatabase.cs" />
+    <Compile Include="Assets\Resources\Library\Databases\Scripts\CardDatabse.cs" />
+    <Compile Include="Assets\Resources\Library\Databases\Scripts\CardIdentifier.cs" />
+    <Compile Include="Assets\Resources\Library\Databases\Scripts\SpriteDatabase.cs" />
+    <Compile Include="Assets\Resources\UI\Cards\Scripts\CardInfo.cs" />
+    <Compile Include="Assets\Resources\UI\Cards\Scripts\DuelCard.cs" />
+    <Compile Include="Assets\Resources\UI\Cards\Scripts\FieldCard.cs" />
+    <Compile Include="Assets\Resources\UI\Cards\Scripts\UICard.cs" />
+    <Compile Include="Assets\Resources\UI\Cards\Scripts\VisualInfo.cs" />
+    <Compile Include="Assets\Resources\UI\GameBoard\Scripts\Board.cs" />
+    <Compile Include="Assets\Resources\UI\GameBoard\Scripts\Tile.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\BaseDrag.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\BaseDrop.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\BaseInteract.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\CardDrag.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\DragDropManager.cs" />
+    <Compile Include="Assets\Resources\UI\Interact Scripts\FieldDrop.cs" />
+    <Compile Include="Assets\Resources\UI\Player Hand\Scripts\HandZone.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Resources\Library\Library.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
